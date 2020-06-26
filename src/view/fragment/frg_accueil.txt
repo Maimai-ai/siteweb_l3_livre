@@ -1,0 +1,15 @@
+<p> Bienvenue à toi cher visiteur ! (ou professeur) </p> <br>
+<p> Tu es ici sur mon site, consacré au livre !</p>
+<p> Je sais tu vas te dire que c'est pas très original, mais c'est la seule idée que j'ai pu trouvé, qui était listable et qui n'a pas déjà été pris pas quelqu'un d'autre... </p> <br> 
+
+<p><em>Pourquoi les livres ? </em></p>
+<p> J'ai choisi de faire un site sur les livres, parce que j'aime bien lire tout simplement.</p>
+
+<p>De plus, en général lors de la fin de lecture d'un livre, je le marque quelque part.</p>
+<p>J'écris son titre, son synopsis, puis je le résume rapidement et je donne mon avis dessus. Ce que j'ai aimé et moins aimé.</p>
+
+<p> De cette manière je peux le garder quelque part et lors d'une rapide relecture, je pourrais me souvenir du livre déjà lu.</p>
+<p> Et de pouvoir partagé mon avis avec d'autres lecteurs ! </p>
+
+
+<p> Mais bon je t'invite à aller sur mon site, et à le découvrir ! </p>

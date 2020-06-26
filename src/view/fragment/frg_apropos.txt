@@ -1,0 +1,13 @@
+<p> Numero etudiant : 21605680 </p>
+
+<p>Pour vous connecter : </p>
+
+<p>En tant que utilisateur: Vous pourrez Ajouter, supprimer un livre et le modifier
+	<br>	Login: toto
+	<br>	Mot de passe : azerty
+</p>
+
+<p> En tant qu'admin : Vous pourrez acceder à la page Source contenant les sources utilisé pour la création du site en plus de pouvoir ajouter supprimer des livres et les modifiers
+	<br>	Login: camcam
+	<br>	Mot de passe : abc1234
+</p>
